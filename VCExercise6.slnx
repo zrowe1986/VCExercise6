@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Ex6_IfElse/Ex6_IfElse.vcxproj" />
+  <Project Path="Ex6_NestedIf/Ex6_NestedIf.vcxproj" />
+  <Project Path="VCExercise6/VCExercise6.vcxproj" />
+</Solution>
