@@ -4,7 +4,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Ex6_IfElse/Ex6_IfElse.vcxproj" />
-  <Project Path="Ex6_NestedIf/Ex6_NestedIf.vcxproj" />
-  <Project Path="VCExercise6/VCExercise6.vcxproj" />
+  <Project Path="Ex6_IfElse/Ex6_IfElse.vcxproj" Id="9dec0993-bf9f-41fe-a678-28a62ee08391" />
+  <Project Path="Ex6_NestedIf/Ex6_NestedIf.vcxproj" Id="48ff819a-fa1f-493e-8698-34fd7c19ffc5" />
+  <Project Path="Ex6_IfSeries/Ex6_IfSeries.vcxproj" Id="69110a46-6c11-4a9c-8369-bacaa1e2897b" />
 </Solution>
